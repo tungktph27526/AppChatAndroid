@@ -1,0 +1,15 @@
+{
+    "name": "node_server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "script": {
+        "test":"echo\"Error: no test specifed\" && exxit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies":{
+        "express": "4.17.1",
+        "socket.io": "2.3.0"
+    }
+}
